@@ -1,0 +1,5 @@
+env.php
+vendor
+var/logs/updateproduct.log
+composer.lock
+composer.phar
